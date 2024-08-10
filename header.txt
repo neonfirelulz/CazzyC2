@@ -1,0 +1,15 @@
+Request URL:https://www.googleapis.com/blogger/v3/blogs/2055792886157683837/posts/6467499583973436184?key=AIzaSyAYl8yYviScKY6dsHA3qjK3jyKV9_83HP8&callback=jQuery18301234392779879272_1354119428084&_=1354119428095
+Request Method:GET
+Status Code:200 OK
+Request Headersview source
+:host:www.googleapis.com
+:method:GET
+:path:/blogger/v3/blogs/2055792886157683837/posts/6467499583973436184?key=AIzaSyAYl8yYviScKY6dsHA3qjK3jyKV9_83HP8&callback=jQuery18301234392779879272_1354119428084&_=1354119428095
+:scheme:https
+:version:HTTP/1.1
+accept:*/*
+accept-charset:ISO-8859-1,utf-8;q=0.7,*;q=0.3
+accept-encoding:gzip,deflate,sdch
+accept-language:en-US,en;q=0.8
+referer:http://localhost/New%20folder/
+user-agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.91 Safari/537.11
