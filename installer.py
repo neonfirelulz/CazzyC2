@@ -37,6 +37,8 @@ else:
 os.system("apt-get install nodejs")
 os.system("apt-get install npm")
 os.system("npm i axios")
+os.system("buffer")
+os.system("raw-socket")
 os.system("npm i events")
 os.system("npm i http2")
 os.system("npm i colors")
